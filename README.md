@@ -1,2 +1,2 @@
 # bigdataworkloads
-Big Data system workloads collection
+Big Data system workloads collection and modeling
